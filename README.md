@@ -7,7 +7,7 @@
 --------------------------
 
 *   **Languages**: Java NodeJS HTML/PHP
-*   **Tools**: LinuxOS CentOS PhpStorm Intelij IDEA Putty
+*   **Tools**: LinuxOS CentOS PhpStorm Intelij IDEA Putty VS
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&random=false&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://vk.com/qusteon)
 ---------------
