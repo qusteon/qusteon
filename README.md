@@ -35,7 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=4994&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=My+Statistics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=4994&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&lines=My+Statistics)](https://git.io/typing-svg)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshranaoc&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshranaoc" />
 
