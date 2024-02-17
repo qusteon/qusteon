@@ -14,7 +14,7 @@
 <img align="left" src="https://octodex.github.com/images/grim-repo.jpg" height=250/>
 <img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height=250/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&pause=1000&color=FFFFFF&random=false&width=435&lines=qusteon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&pause=1000&color=FFFFFF&random=false&width=435&lines=+++++++++++++++++++qusteon)](https://git.io/typing-svg)
 <p align="center">
 </a>
 </a>
