@@ -20,7 +20,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=300&size=35&duration=4994&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Languages+And+Tools+I+Use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=29&pause=1000&color=F7F7F7&random=false&width=435&lines=Languages+And+Tools+I+Use)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
