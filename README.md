@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<img src="https://tenor.com/ru/view/sohappy-throw-kisses-blow-gif-20443172"  width="100px" height="100px"></p>
 
 
 
