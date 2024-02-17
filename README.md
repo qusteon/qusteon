@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img  src="https://tenor.com/ru/view/anime-ayanokoji-gif-26128102" width = 1000>
+<img  src="https://tenor.com/ru/view/anime-dark-glowing-eyes-flowing-hair-black-and-white-gif-17583770" width = 1000>
 
 
 
