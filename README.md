@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<div class="tenor-gif-embed" data-postid="26128102" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-ayanokoji-gif-26128102">Anime Ayanokoji GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img  src="https://tenor.com/ru/view/anime-ayanokoji-gif-26128102" width = 500>
 
 
 
