@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img  src="https://tenor.com/ru/view/anime-ayanokoji-gif-26128102" width = 500>
+![Image](https://tenor.com/ru/view/anime-ayanokoji-gif-26128102)
 
 
 
