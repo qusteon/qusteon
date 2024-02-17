@@ -46,18 +46,5 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=200&pause=1000&color=00D0F7&center=true&vCenter=true&random=false&width=4000&height=300&lines=My+Trophies)](https://git.io/typing-svg)
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HarshRanaOC&theme=dark&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=dark&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
- </div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=200&pause=1000&color=00D0F7&center=true&vCenter=true&random=false&width=4000&height=300&lines=My+Badges)](https://git.io/typing-svg)
-
-[![An image of @harshranaoc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshranaoc)](https://holopin.io/@harshranaoc)
 
 
