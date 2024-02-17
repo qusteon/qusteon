@@ -1,24 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%91%8B+Hello+there!+I'm+qusteon)](https://vk.com/qusteon)
-=========================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=400&pause=1000&color=F70202&center=true&vCenter=true&random=false&width=7500&height=1000&lines=Hello+Friend%2C+I+am+HarshRanaOC)](https://git.io/typing-svg)
 
-💻 Developer from Russia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=411FF7&random=false&width=435&lines=%F0%9F%8D%B3+Skills+and+Technologies)](https://vk.com/qusteon)
---------------------------
+<img  src="https://tenor.com/ru/view/anime-girl-gif-8774559621982871168" width = 1000>
 
-*   **Languages**: Java NodeJS HTML/PHP
-*   **Tools**: LinuxOS CentOS PhpStorm Intelij IDEA Putty VS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&random=false&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://vk.com/qusteon)
----------------
 
-[![qusteon's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusteon&show_icons=true&theme=jolly)](https://github.com/qusteon)
-[![GitHub Streak](https://streak-stats.demolab.com?user=qusteon&theme=catppuccin-macchiato)
+- 👀 I’m interested in Programming 💻 , Web Development 🌐 and UI/UX Design.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=3115F7&random=false&width=435&lines=%F0%9F%93%AB+Get+in+Touch)](https://vk.com/qusteon)
----------------
+- 💻 Developer from Russia
 
-*   Telegram: [t.me/qusteon](https://t.me/qusteon/)
-*   Vkontakte: [vk.com/qusteon](vk.com/qusteon)
-*   Discord: [qusteon](https://discord.com/users/704212359367098488)
-*   Email: [artyrov0909@gmail.com](mailto:artyrov0909@gmail.com)
+
+
+<img align="left" src="https://octodex.github.com/images/grim-repo.jpg" height=250/>
+<img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height=250/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=FFFFFF&random=false&width=435&lines=Languages+And+Tools+I+Use)](https://git.io/typing-svg)
+<p align="center">
+</a>
+</a>
+</p>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=200&pause=1000&color=00D0F7&center=true&vCenter=true&random=false&width=4000&height=300&lines=Languages+And+Tools+I+Use)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=200&pause=1000&color=00D0F7&center=true&vCenter=true&random=false&width=4000&height=300&lines=My+Statistics)](https://git.io/typing-svg)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshranaoc&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshranaoc" />
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshRanaOC&theme=dark&show_icons=true)
+
+
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=200&pause=1000&color=00D0F7&center=true&vCenter=true&random=false&width=4000&height=300&lines=My+Trophies)](https://git.io/typing-svg)
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HarshRanaOC&theme=dark&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
+ <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=dark&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+ </div>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=200&pause=1000&color=00D0F7&center=true&vCenter=true&random=false&width=4000&height=300&lines=My+Badges)](https://git.io/typing-svg)
+
+[![An image of @harshranaoc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshranaoc)](https://holopin.io/@harshranaoc)
+
+
